@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Video Sharing Platform**
 
-- 🌱 I’m currently learning **React,Flask**
+- 🌱 I’m currently learning **Java Full Stack Development**
 
-- 💬 Ask me about **Python,JavaScript,Sql**
+- 💬 Ask me about **Java,Python,JavaScript,Sql**
 
 - 📫 How to reach me **satyajit4716@gmail.com**
 
